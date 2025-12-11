@@ -24,7 +24,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=PrantoSarkar-Tech&theme=github_dark&include_all_commits=true&count_private=false)
 ![](https://nirzak-streak-stats.vercel.app/?user=PrantoSarkar-Tech&theme=github_dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=PrantoSarkar-Tech&theme=github_dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
+</div>
 
 ---
 
@@ -46,12 +46,9 @@
   <a href="#" target="_blank">
     <img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" height="100" alt="instagram logo"  />
   </a>
-<a href="#" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Linktree&logo=linktree&label=&color=1de9b6&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linktree logo"  />
-  </a>
   <a href="#" target="_blank">
     <img src="https://user-images.githubusercontent.com/74038190/235294010-ec412ef5-e3da-4efa-b1d4-0ab4d4638755.gif" height="100" alt="facebook logo"  />
-  
+  </a>
 <a href="#" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
