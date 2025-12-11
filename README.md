@@ -15,9 +15,8 @@
 ---
 
 ## 📊 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PrantoSarkar-Tech&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PrantoSarkar-Tech&layout=compact&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PrantoSarkar-Tech&theme=radical)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=prantosarkar-tech&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prantosarkar-tech&layout=compact&theme=radical)  
 
 ---
 
@@ -32,7 +31,7 @@
 ---
 
 ## 🌐 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/pranto-sarkar-533712398?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/pranto-sarkar-533712398)
 
 ---
 
