@@ -1,8 +1,8 @@
 # 🌟 Hi there, I'm Pranto 👋  
 
-![Profile views](https://komarev.com/ghpvc/?username=PrantoSarkar-Tech&label=Profile%20views&color=0e75b6&style=flat)  
-![GitHub followers](https://img.shields.io/github/followers/PrantoSarkar-Tech?label=Followers&style=social)  
-![GitHub stars](https://img.shields.io/github/stars/PrantoSarkar-Tech?label=Stars&style=social)  
+![Profile views](https://komarev.com/ghpvc/?username=PrantoTech&label=Profile%20views&color=0e75b6&style=flat)  
+![GitHub followers](https://img.shields.io/github/followers/PrantoTech?label=Followers&style=social)  
+![GitHub stars](https://img.shields.io/github/stars/PrantoTech?label=Stars&style=social)  
 
 ---
 
@@ -15,15 +15,15 @@
 ---  
 <h2 align="left"> 🔸GitHub Stats</h2>
 <div align="center">
-    <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PrantoSarkar-Tech&theme=github_dark" />
-    <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PrantoSarkar-Tech&theme=github_dark" />
-    <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PrantoSarkar-Tech&theme=github_dark" />
-    <img height="180em" src="http:github-profile-summary-cards.vercel.app/api/cards/stats?username=PrantoSarkar-Tech&theme=github_dark" />
-    <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PrantoSarkar-Tech&theme=github_dark&utcOffset=8" />
+    <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=PrantoTech&theme=github_dark" />
+    <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=PrantoTech&theme=github_dark" />
+    <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=PrantoTech&theme=github_dark" />
+    <img height="180em" src="http:github-profile-summary-cards.vercel.app/api/cards/stats?username=PrantoTech&theme=github_dark" />
+    <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=PrantoTech&theme=github_dark&utcOffset=8" />
 
-![](https://github-readme-stats.vercel.app/api?username=PrantoSarkar-Tech&theme=github_dark&include_all_commits=true&count_private=false)
-![](https://nirzak-streak-stats.vercel.app/?user=PrantoSarkar-Tech&theme=github_dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=PrantoSarkar-Tech&theme=github_dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=PrantoTech&theme=github_dark&include_all_commits=true&count_private=false)
+![](https://nirzak-streak-stats.vercel.app/?user=PrantoTech&theme=github_dark&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=PrantoTech&theme=github_dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 </div>
 
 ---
